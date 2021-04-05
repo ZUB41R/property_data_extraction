@@ -1,0 +1,11 @@
+beautifulsoup4
+lxml
+html5lib
+requests
+python-dotenv
+pandas
+psycopg2-binary
+pylint
+fire
+pillow
+cryptography
